@@ -19,3 +19,5 @@ WHILE A is equal to S divided by 2
 AND P is equal to X multiplied by Y THEN 
 output is S,A,P 
 
+
+//I watched youtube tutorials to asssist with understaning Pseudo code and algorithms. 
